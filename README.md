@@ -1,2 +1,2 @@
-# Devbook API
-Desenvolvimento de uma API voltado para conhecimentos e noções em golang.
+# Devbook
+Desenvolvimento de sistema completo com backend e frontend voltado para conhecimentos e noções em golang.

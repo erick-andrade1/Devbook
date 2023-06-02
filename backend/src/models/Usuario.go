@@ -45,6 +45,6 @@ func (user *User) validate() error {
 
 func (user *User) format() {
 	user.Nome = strings.TrimSpace(user.Nome)
-	user.Nick = strings.TrimSpace(user.Nome)
-	user.Email = strings.TrimSpace(user.Nome)
+	user.Nick = strings.TrimSpace(user.Nick)
+	user.Email = strings.TrimSpace(user.Email)
 }
